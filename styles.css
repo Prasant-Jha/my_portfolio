@@ -158,7 +158,6 @@ nav {
 .about-img {
     flex: 1;
     max-width: 300px;
-    border: 1px solid black;
     border-radius: 50%;
 }
 
@@ -471,3 +470,4 @@ footer {
     padding: 10px;
     margin-top: 20px;
 }
+
