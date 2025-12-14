@@ -45,3 +45,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     window.addEventListener("scroll", changeActiveNav);
 });
+
+document.addEventListener("DOMContentLoaded", () => {
+  document.getElementById("year").textContent = new Date().getFullYear();
+});
+
